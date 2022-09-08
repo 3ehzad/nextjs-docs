@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/3ehzad/nextjs-docs',
-  docsRepositoryBase: 'https://github.com/3ehzad/nextjs-docs/blob/master',
+  docsRepositoryBase: 'https://github.com/3ehzad/nextjs-docs/blob/main',
   titleSuffix: ' – Nextra',
   logo: (
     <>
