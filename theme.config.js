@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/3ehzad/nextjs-docs',
   docsRepositoryBase: 'https://github.com/3ehzad/nextjs-docs/blob/main',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Braiins',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">BRAIINS</span>
@@ -64,4 +64,11 @@ export default {
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
   unstable_faviconGlyph: '👋',
+  i18n: [
+    { locale: 'en', text: 'English' },
+    { locale: 'es', text: 'Spanish' },
+    { locale: 'ru', text: 'Russian' },
+    { locale: 'fa', text: 'فارسی', direction: 'rtl' },
+    { locale: 'zh', text: 'Chinese'},
+  ],
 }
