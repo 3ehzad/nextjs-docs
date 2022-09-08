@@ -66,9 +66,6 @@ export default {
   unstable_faviconGlyph: '👋',
   i18n: [
     { locale: 'en', text: 'English' },
-    { locale: 'es', text: 'Spanish' },
-    { locale: 'ru', text: 'Russian' },
     { locale: 'fa', text: 'فارسی', direction: 'rtl' },
-    { locale: 'zh', text: 'Chinese'},
   ],
 }
