@@ -11,6 +11,9 @@
   "author": "Shu Ding",
   "license": "MIT",
   "dependencies": {
+    "carbon-components": "^10.58.1",
+    "carbon-components-react": "^8.12.0",
+    "carbon-icons": "^7.0.7",
     "next": "^12.1.0",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.2",
